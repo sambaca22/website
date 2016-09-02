@@ -5,3 +5,8 @@
 </head>
 <body style = "background-color: tan; color: brown;>
 <table border = 1 width = 600 align = center>
+<tr>
+<th>Names</th>
+<th>Id Number</th>
+<th>Team</th>
+</tr>
