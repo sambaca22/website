@@ -1,0 +1,39 @@
+<title>HTML Tables</title>
+</head>
+<body style = "background-color: tan; color: brown;">
+<table border = 1 width = 600 align = center>
+<tr>
+<th>Names</th>
+<th>ID Number</th>
+<th>Team</th>
+</tr>
+<tr>
+<td>Jasper</td>
+<td>1234</td>
+<td>Blue</td>
+</tr>
+<tr>
+<td>Sam</td>
+<td>7857</td>
+<td>Blue</td>
+</tr>
+<tr>
+<td>Tenna</td>
+<td>9012</td>
+<td>Gold</td>
+</tr>
+<tr>
+<td>Alex</td>
+<td>3456</td>
+<td>Gold</td>
+</tr>
+<tr>
+<td>Mya</td>
+<td>7890</td>
+<td>Silver</td>
+</tr>
+<tr>
+<td>Corey</td>
+<td>1267</td>
+<td>Silver
+</tr></td>
